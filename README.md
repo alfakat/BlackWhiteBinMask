@@ -1,0 +1,2 @@
+# BlackWhiteBinMask
+Binary mask creator
